@@ -35,7 +35,7 @@ def predict():
         predicted_price = model.predict(scaled_data)
 
         # Prepare the prediction text
-        prediction_text = f'Predicted Price for the house: ${predicted_price[0]:,.2f}'
+        prediction_text = f'Predicted Price for the house: {predicted_price[0]:,.2f} INR'
 
         # Prepare the accuracy text
         accuracy_text = f'Model R² Score: {r2:.2f}'
