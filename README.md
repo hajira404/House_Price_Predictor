@@ -34,4 +34,4 @@ Follow these steps to get the project running locally on your machine.
    ```bash
    python app.py
 
-   The application will be hosted locally on http://127.0.0.1:5000/.
+  The application will be hosted locally on http://127.0.0.1:5000/.
