@@ -17,8 +17,7 @@ This project **predicts house prices** based on user input using a machine learn
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript
 - **Machine Learning**: Scikit-learn
-- **Model Training**: Linear Regression (can be adjusted based on your model)
-- **Database**: (Optional) SQLite/MySQL (if applicable)
+- **Model Training**: Linear Regression 
 
 ## **Installation**
 Follow these steps to get the project running locally on your machine.
