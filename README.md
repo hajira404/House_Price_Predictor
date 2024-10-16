@@ -27,3 +27,11 @@ Follow these steps to get the project running locally on your machine.
    ```bash
    git clone https://github.com/your-username/house-price-predictor.git
    cd house-price-predictor
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Application**
+   ```bash
+   python app.py
+
+   The application will be hosted locally on http://127.0.0.1:5000/.
